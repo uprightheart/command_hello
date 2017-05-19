@@ -1,6 +1,4 @@
 test Github
 추가 추가 
-<<<<<<< HEAD
-=======
-hotfix에서 수정
->>>>>>> hotfix
+마스터 추가
+hotfiX
